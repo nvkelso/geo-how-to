@@ -1,5 +1,7 @@
 ## Mapping
 
+* [Getting started](https://github.com/nvkelso/geo-how-to/wiki/Getting-started) - Install critical software and links to tutorials and rough workflow.
+
 * [PostGIS](https://github.com/nvkelso/geo-how-to/wiki/PostGIS) - Store your geography in a spatial database (kinda the open source version of an Esri GeoDB). Faster than raw SHP files when speed matters. Storage default for OSM data.
 
 * [OGR](https://github.com/nvkelso/geo-how-to/wiki/OGR-to-reproject,-modify-Shapefiles) - Reproject, sort, filter and otherwise modify Shapefiles and other vector map data formats.
@@ -13,6 +15,8 @@
 * [Where Am I](https://github.com/nvkelso/geo-how-to/wiki/WhereAmI) - Convert between lat/long and TMS coords.
 
 * [GeoJSON](https://github.com/nvkelso/geo-how-to/wiki/GeoJSON) - Make it smaller.
+
+* [MaPublisher](https://github.com/nvkelso/geo-how-to/wiki/MaPublisher) - Make maps in Adobe Illustrator.
 
 ## Unix command line
 
