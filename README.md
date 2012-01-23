@@ -1,6 +1,14 @@
-## Mapping
+## Getting started
 
-* [Getting started](https://github.com/nvkelso/geo-how-to/wiki/Getting-started) - Install critical software and links to tutorials and rough workflow.
+* [Software](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-SOFTWARE) - Install critical software and links to tutorials and rough workflow.
+
+* [Data](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-DATA) - Download OSM and Natural Earth data.
+
+* [Example workflow](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-WORKFLOW) - Start a project, import data, export data, create tiles.
+
+* [Web mapping = API + tiles](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-OVERVIEW) - 
+
+## Mapping
 
 * [PostGIS](https://github.com/nvkelso/geo-how-to/wiki/PostGIS) - Store your geography in a spatial database (kinda the open source version of an Esri GeoDB). Faster than raw SHP files when speed matters. Storage default for OSM data.
 
@@ -8,15 +16,19 @@
 
 * [Map Styling](https://github.com/nvkelso/geo-how-to/wiki/Map-Styling-in-cascadenik,-carto) - Cascadenik, carto since raw Mapnik XML is hellish.
 
+* [Style Hub](https://github.com/nvkelso/geo-how-to/wiki/Style-Hub) - Pre-baked stylesheets for drawing OSM and Natural Earth data.
+
 * [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles
 
 * [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels
 
-* [Where Am I](https://github.com/nvkelso/geo-how-to/wiki/WhereAmI) - Convert between lat/long and TMS coords.
-
-* [GeoJSON](https://github.com/nvkelso/geo-how-to/wiki/GeoJSON) - Make it smaller.
-
 * [MaPublisher](https://github.com/nvkelso/geo-how-to/wiki/MaPublisher) - Make maps in Adobe Illustrator.
+
+* [Map scales/zooms, coordinate systems](https://github.com/nvkelso/geo-how-to/wiki/Map-scales---zooms) - Web maps have 20 preset scales, learn these “zoom” levels and their natural scale equivelents.
+
+* [Generalize your data](https://github.com/nvkelso/geo-how-to/wiki/Generalize your data) - Seriously. Your maps will look better and load faster.
+
+* [GeoJSON](https://github.com/nvkelso/geo-how-to/wiki/GeoJSON) - Make it smaller. Giving your data the precision it's accuracy deserves.
 
 ## Unix command line
 
@@ -42,4 +54,4 @@
 
 ## Other
 
-* [Markdown is the devil](https://github.com/nvkelso/geo-how-to/wiki/Markdown-is-evil)
+* [Markdown is the devil](https://github.com/nvkelso/geo-how-to/wiki/Markdown-is-evil) - Yet another random raw text formatting style without a GUI.
