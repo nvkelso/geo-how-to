@@ -10,11 +10,13 @@
 
 * [Why go open source geo](https://github.com/nvkelso/geo-how-to/wiki/Why-go-open-source-geo) - Read what the community is saying.
 
+* [Map examples](https://github.com/nvkelso/geo-how-to/wiki/Map-examples) - Pretty basemap tiles and compelling interactive maps.
+
 ## Mapping
 
 * [PostGIS](https://github.com/nvkelso/geo-how-to/wiki/PostGIS) - Store your geography in a spatial database (kinda the open source version of an Esri GeoDB). Faster than raw SHP files when speed matters. Storage default for OSM data.
 
-* [OGR](https://github.com/nvkelso/geo-how-to/wiki/OGR-to-reproject,-modify-Shapefiles) - Reproject, sort, filter and otherwise modify Shapefiles and other vector map data formats.
+* [OGR, GDAL](https://github.com/nvkelso/geo-how-to/wiki/OGR-to-reproject,-modify-Shapefiles) - Reproject, sort, filter and otherwise modify Shapefiles and other vector map data formats. GDAL for raster. These are amazingly powerful.
 
 * [QGIS](https://github.com/nvkelso/geo-how-to/wiki/QGIS) - The open source alternative to ArcMap, but not as industrial strength. It's a GUI for composing maps and doing simple analysis.
 
@@ -22,9 +24,9 @@
 
 * [Style Hub](https://github.com/nvkelso/geo-how-to/wiki/Style-Hub) - Pre-baked stylesheets for drawing OSM and Natural Earth data.
 
-* [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles
+* [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles, from Stamen.
 
-* [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels
+* [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels, from Stamen.
 
 * [Geocoding](https://github.com/nvkelso/geo-how-to/wiki/Geocoding) - This is the one hard part about going open source geo.
 
