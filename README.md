@@ -1,6 +1,6 @@
 ## Getting started
 
-* [Software](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-SOFTWARE) - Install critical software and links to tutorials and rough workflow.
+* [Software](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-SOFTWARE) - Install critical software and links to tutorials.
 
 * [Data](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-DATA) - Download OSM and Natural Earth data.
 
@@ -16,6 +16,8 @@
 
 * [OGR](https://github.com/nvkelso/geo-how-to/wiki/OGR-to-reproject,-modify-Shapefiles) - Reproject, sort, filter and otherwise modify Shapefiles and other vector map data formats.
 
+* [QGIS](https://github.com/nvkelso/geo-how-to/wiki/QGIS) - The open source alternative to ArcMap, but not as industrial strength. It's a GUI for composing maps and doing simple analysis.
+
 * [Map Styling](https://github.com/nvkelso/geo-how-to/wiki/Map-Styling-in-cascadenik,-carto) - Cascadenik, carto since raw Mapnik XML is hellish.
 
 * [Style Hub](https://github.com/nvkelso/geo-how-to/wiki/Style-Hub) - Pre-baked stylesheets for drawing OSM and Natural Earth data.
@@ -23,6 +25,8 @@
 * [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles
 
 * [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels
+
+* [Geocoding](https://github.com/nvkelso/geo-how-to/wiki/Geocoding) - This is the one hard part about going open source geo.
 
 * [Map scales/zooms, coordinate systems](https://github.com/nvkelso/geo-how-to/wiki/Map-scales---zooms) - Web maps have 20 preset scales, learn these “zoom” levels and their natural scale equivelents.
 
