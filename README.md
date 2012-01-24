@@ -6,7 +6,9 @@
 
 * [Example workflow](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-WORKFLOW) - Start a project, import data, export data, create tiles.
 
-* [Web mapping = API + tiles](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-OVERVIEW) - 
+* [Web mapping = API + tiles](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-OVERVIEW) - Slippy maps on the web have two parts: images tiles that make up the map, and an API framework that stitches tiles together and handles interactive panning and zooming.
+
+* [Why go open source geo](https://github.com/nvkelso/geo-how-to/wiki/Why-go-open-source-geo) - Read what the community is saying.
 
 ## Mapping
 
@@ -22,13 +24,13 @@
 
 * [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels
 
-* [MaPublisher](https://github.com/nvkelso/geo-how-to/wiki/MaPublisher) - Make maps in Adobe Illustrator.
-
 * [Map scales/zooms, coordinate systems](https://github.com/nvkelso/geo-how-to/wiki/Map-scales---zooms) - Web maps have 20 preset scales, learn these “zoom” levels and their natural scale equivelents.
 
 * [Generalize your data](https://github.com/nvkelso/geo-how-to/wiki/Generalize your data) - Seriously. Your maps will look better and load faster.
 
 * [GeoJSON](https://github.com/nvkelso/geo-how-to/wiki/GeoJSON) - Make it smaller. Giving your data the precision it's accuracy deserves.
+
+* [MaPublisher](https://github.com/nvkelso/geo-how-to/wiki/MaPublisher) - Make maps in Adobe Illustrator.
 
 ## Unix command line
 
