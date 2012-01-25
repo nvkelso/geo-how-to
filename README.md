@@ -12,6 +12,8 @@
 
 * [Map examples](https://github.com/nvkelso/geo-how-to/wiki/Map-examples) - Pretty basemap tiles and compelling interactive maps.
 
+> ![Tile Previews](https://github.com/nvkelso/geo-how-to/raw/master/images/tile_providers_preview.png)
+
 ## Mapping
 
 * [PostGIS](https://github.com/nvkelso/geo-how-to/wiki/PostGIS) - Store your geography in a spatial database (kinda the open source version of an Esri GeoDB). Faster than raw SHP files when speed matters. Storage default for OSM data.
@@ -30,6 +32,12 @@
 
 * [Geocoding](https://github.com/nvkelso/geo-how-to/wiki/Geocoding) - This is the one hard part about going open source geo.
 
+* [Routing](https://github.com/nvkelso/geo-how-to/wiki/Routing) - tk tk tk
+
+* [Shapely](https://github.com/nvkelso/geo-how-to/wiki/Shapely) - Python library for geometric objects, predicates, and operations without requiring PostGIS.
+
+* [Tiles](https://github.com/nvkelso/geo-how-to/wiki/Tiles) - Once you're done designing your map, you'll have 10s of thousands of tiny image files, hundreds and thousands of megabytes in size. You'll need to post these online.
+
 * [Map scales/zooms, coordinate systems](https://github.com/nvkelso/geo-how-to/wiki/Map-scales---zooms) - Web maps have 20 preset scales, learn these “zoom” levels and their natural scale equivelents.
 
 * [Generalize your data](https://github.com/nvkelso/geo-how-to/wiki/Generalize your data) - Seriously. Your maps will look better and load faster.
@@ -41,6 +49,8 @@
 ## Unix command line
 
 * [Makefiles](https://github.com/nvkelso/geo-how-to/wiki/Make-files) - Key to organizing your workflow and making it repeatable.
+
+* [Python](https://github.com/nvkelso/geo-how-to/wiki/Python) - tk tk tk
 
 * [General Unix commands](https://github.com/nvkelso/geo-how-to/wiki/Unix-commands)
 
