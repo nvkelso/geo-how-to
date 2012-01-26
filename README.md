@@ -1,3 +1,5 @@
+![Tile Previews](https://github.com/nvkelso/geo-how-to/raw/master/images/tile_providers_preview.png)
+
 ## Getting started
 
 * [Software](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-SOFTWARE) - Install critical software and links to tutorials.
@@ -11,8 +13,6 @@
 * [Why go open source geo](https://github.com/nvkelso/geo-how-to/wiki/Why-go-open-source-geo) - Read what the community is saying.
 
 * [Map examples](https://github.com/nvkelso/geo-how-to/wiki/Map-examples) - Pretty basemap tiles and compelling interactive maps.
-
-> ![Tile Previews](https://github.com/nvkelso/geo-how-to/raw/master/images/tile_providers_preview.png)
 
 ## Mapping
 
