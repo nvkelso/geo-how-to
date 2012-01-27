@@ -1,5 +1,7 @@
 ![Tile Previews](https://github.com/nvkelso/geo-how-to/raw/master/images/tile_providers_preview.png)
 
+For a good overview, check out the [Switch2osm](http://switch2osm.org/) site. The tips and tricks here apply to OSM somewhat, but more specifically to BYOD (bring your down data).
+
 ## Getting started
 
 * [Software](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-SOFTWARE) - Install critical software and links to tutorials.
