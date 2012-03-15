@@ -38,7 +38,7 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles, from Stamen.
 
-* [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels, from Stamen.
+* [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels, from Stamen. Like Annotation from ArcGIS.
 
 * [Geocoding](https://github.com/nvkelso/geo-how-to/wiki/Geocoding) - This is the one hard part about going open source geo.
 
