@@ -36,6 +36,8 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [OGR, GDAL](https://github.com/nvkelso/geo-how-to/wiki/OGR-to-reproject,-modify-Shapefiles) - Reproject, sort, filter and otherwise modify Shapefiles and other vector map data formats. GDAL for raster. These are amazingly powerful.
 
+* [Mapnik](https://github.com/nvkelso/geo-how-to/wiki/Mapnik) - Draw web map tiles, industrial strength.
+
 * [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles, from Stamen.
 
 * [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels, from Stamen. Like Annotation from ArcGIS.
