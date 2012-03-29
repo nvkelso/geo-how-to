@@ -1,3 +1,9 @@
+![Tile Previews](https://github.com/nvkelso/geo-how-to/raw/master/images/tile_providers_preview.png)
+
+The tips and tricks here are oriented to BYOD (bring your down data) mapping and OpenStreetMap obliquely.
+
+_Looking for an overview of OSM instead? Check out the [Switch2osm](http://switch2osm.org/) site._
+
 ## Getting started
 
 * [Software](https://github.com/nvkelso/geo-how-to/wiki/Getting-started:-SOFTWARE) - Install critical software and links to tutorials.
@@ -12,31 +18,35 @@
 
 * [Map examples](https://github.com/nvkelso/geo-how-to/wiki/Map-examples) - Pretty basemap tiles and compelling interactive maps.
 
-> ![Tile Previews](https://github.com/nvkelso/geo-how-to/raw/master/images/tile_providers_preview.png)
-
 ## Mapping
+
+* [Map Styling](https://github.com/nvkelso/geo-how-to/wiki/Map-Styling-in-cascadenik,-carto) - Color your map features using cascadenik or carto since raw Mapnik XML is hellish.
+
+* [Style Hub](https://github.com/nvkelso/geo-how-to/wiki/Style-Hub) - Pre-baked stylesheets and icons for drawing OSM and Natural Earth data.
+
+* [Rendering map tiles](https://github.com/nvkelso/geo-how-to/wiki/Rendering-map-tiles) - Once you're done designing your map, you'll need to render 10s of thousands of tiny image files, hundreds and thousands of megabytes in size.
+
+* [Hosting Tiles](https://github.com/nvkelso/geo-how-to/wiki/Hosting tiles) - Publish your tiles so others can see them. Amazon S3, EC2, CloudFront, your own server, MapBox.com, etc.
+
+### Tools of the trade:
+
+* [QGIS](https://github.com/nvkelso/geo-how-to/wiki/QGIS) - The open source alternative to ArcMap, but not as industrial strength. It's a GUI for composing maps and doing simple analysis.
 
 * [PostGIS](https://github.com/nvkelso/geo-how-to/wiki/PostGIS) - Store your geography in a spatial database (kinda the open source version of an Esri GeoDB). Faster than raw SHP files when speed matters. Storage default for OSM data.
 
 * [OGR, GDAL](https://github.com/nvkelso/geo-how-to/wiki/OGR-to-reproject,-modify-Shapefiles) - Reproject, sort, filter and otherwise modify Shapefiles and other vector map data formats. GDAL for raster. These are amazingly powerful.
 
-* [QGIS](https://github.com/nvkelso/geo-how-to/wiki/QGIS) - The open source alternative to ArcMap, but not as industrial strength. It's a GUI for composing maps and doing simple analysis.
-
-* [Map Styling](https://github.com/nvkelso/geo-how-to/wiki/Map-Styling-in-cascadenik,-carto) - Cascadenik, carto since raw Mapnik XML is hellish.
-
-* [Style Hub](https://github.com/nvkelso/geo-how-to/wiki/Style-Hub) - Pre-baked stylesheets for drawing OSM and Natural Earth data.
+* [Mapnik](https://github.com/nvkelso/geo-how-to/wiki/Mapnik) - Draw web map tiles, industrial strength.
 
 * [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles, from Stamen.
 
-* [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels, from Stamen.
+* [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels, from Stamen. Like Annotation from ArcGIS.
 
 * [Geocoding](https://github.com/nvkelso/geo-how-to/wiki/Geocoding) - This is the one hard part about going open source geo.
 
-* [Routing](https://github.com/nvkelso/geo-how-to/wiki/Routing) - tk tk tk
+* [Routing](https://github.com/nvkelso/geo-how-to/wiki/Routing) - The MapQuest Open API returns routing based on OSM data
 
 * [Shapely](https://github.com/nvkelso/geo-how-to/wiki/Shapely) - Python library for geometric objects, predicates, and operations without requiring PostGIS.
-
-* [Tiles](https://github.com/nvkelso/geo-how-to/wiki/Tiles) - Once you're done designing your map, you'll have 10s of thousands of tiny image files, hundreds and thousands of megabytes in size. You'll need to post these online.
 
 * [Map scales/zooms, coordinate systems](https://github.com/nvkelso/geo-how-to/wiki/Map-scales---zooms) - Web maps have 20 preset scales, learn these “zoom” levels and their natural scale equivelents.
 
@@ -45,6 +55,8 @@
 * [GeoJSON](https://github.com/nvkelso/geo-how-to/wiki/GeoJSON) - Make it smaller. Giving your data the precision it's accuracy deserves.
 
 * [MaPublisher](https://github.com/nvkelso/geo-how-to/wiki/MaPublisher) - Make maps in Adobe Illustrator.
+
+* [OpenStreetMap](https://github.com/nvkelso/geo-how-to/wiki/OpenStreetMap) - aka OSM. How to import it and explore the tag universe.
 
 ## Unix command line
 
