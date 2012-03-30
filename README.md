@@ -18,6 +18,8 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Map examples](https://github.com/nvkelso/geo-how-to/wiki/Map-examples) - Pretty basemap tiles and compelling interactive maps.
 
+* [When tiles aren't enough](https://github.com/nvkelso/geo-how-to/wiki/Print-and-big-map-images) - Use your web map stylesheet to render larger raster images and export to PDF, EPS, and SVG.
+
 ## Mapping
 
 * [Map Styling](https://github.com/nvkelso/geo-how-to/wiki/Map-Styling-in-cascadenik,-carto) - Color your map features using cascadenik or carto since raw Mapnik XML is hellish.
@@ -53,6 +55,8 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 * [Generalize your data](https://github.com/nvkelso/geo-how-to/wiki/Generalize your data) - Seriously. Your maps will look better and load faster.
 
 * [GeoJSON](https://github.com/nvkelso/geo-how-to/wiki/GeoJSON) - Make it smaller. Giving your data the precision it's accuracy deserves.
+
+* [Kartograph](http://kartograph.org/) - Kartograph is a new framework for building interactive vector map applications without Google Maps or any other mapping service. It was created with the needs of designers and data journalists in mind. Tons of map projections, gracefully degrades to IE7. Great for thematic maps that are smaller scale than 1:250,000.
 
 * [MaPublisher](https://github.com/nvkelso/geo-how-to/wiki/MaPublisher) - Make maps in Adobe Illustrator.
 
