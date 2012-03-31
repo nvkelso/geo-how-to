@@ -24,6 +24,8 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Map Styling](https://github.com/nvkelso/geo-how-to/wiki/Map-Styling-in-cascadenik,-carto) - Color your map features using cascadenik or carto since raw Mapnik XML is hellish.
 
+* [Map Labels](https://github.com/nvkelso/geo-how-to/wiki/Labels) - Tips for labeling features. 
+
 * [Style Hub](https://github.com/nvkelso/geo-how-to/wiki/Style-Hub) - Pre-baked stylesheets and icons for drawing OSM and Natural Earth data.
 
 * [Rendering map tiles](https://github.com/nvkelso/geo-how-to/wiki/Rendering-map-tiles) - Once you're done designing your map, you'll need to render 10s of thousands of tiny image files, hundreds and thousands of megabytes in size.
@@ -41,6 +43,8 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 * [Mapnik](https://github.com/nvkelso/geo-how-to/wiki/Mapnik) - Draw web map tiles, industrial strength.
 
 * [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles, from Stamen.
+
+* [TileMill](http://mapbox.com/tilemill/) - Desktop "web" app with an easy installer, powered by Mapnik and Carto. From Development Seed / MapBox.
 
 * [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels, from Stamen. Like Annotation from ArcGIS.
 
