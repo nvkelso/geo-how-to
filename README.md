@@ -32,6 +32,10 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Hosting Tiles](https://github.com/nvkelso/geo-how-to/wiki/Hosting tiles) - Publish your tiles so others can see them. Amazon S3, EC2, CloudFront, your own server, MapBox.com, etc.
 
+* [Adding interactivity](https://github.com/nvkelso/geo-how-to/wiki/Adding interactivity) - UTF-8 grids + hybrid tile vector maps
+
+* [Is your map effective?](https://github.com/nvkelso/geo-how-to/wiki/Is your map effective) - 
+
 ### Tools of the trade:
 
 * [QGIS](https://github.com/nvkelso/geo-how-to/wiki/QGIS) - The open source alternative to ArcMap, but not as industrial strength. It's a GUI for composing maps and doing simple analysis.
