@@ -34,7 +34,7 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Adding interactivity](https://github.com/nvkelso/geo-how-to/wiki/Adding interactivity) - UTF-8 grids + hybrid tile vector maps
 
-* [Is your map effective?](https://github.com/nvkelso/geo-how-to/wiki/Is your map effective) - 
+* [Is your map effective?](https://github.com/nvkelso/geo-how-to/wiki/Is your map effective) - Take a critical look at your work, evaluate it with a consistent rubric, and ask, "Is my map great?"
 
 ### Tools of the trade:
 
