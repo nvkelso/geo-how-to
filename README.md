@@ -2,6 +2,8 @@
 
 The tips and tricks here are oriented to BYOD (bring your down data) mapping and OpenStreetMap obliquely.
 
+Presentation cartography and basic inventory mapping is the focus here. Spatial analytics is touched upon briefly but is not the main focus. This site makes assumptions that OpenSource GIS mostly means: PostGIS as a spatial data store and Mapnik as a rendering engine, a Mappy CSS styling language like Cascadenik or Carto to setup the layers and their appearance. Interactivity is briefly touched on. Actually embedding the resulting tile assets is briefly touched on.
+
 _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switch2osm.org/) site._
 
 ## Getting started
