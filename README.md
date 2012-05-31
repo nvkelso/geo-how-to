@@ -36,6 +36,8 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Is your map effective?](https://github.com/nvkelso/geo-how-to/wiki/Is your map effective) - Take a critical look at your work, evaluate it with a consistent rubric, and ask, "Is my map great?"
 
+* [Viewing map tiles in desktop GIS apps](https://github.com/nvkelso/geo-how-to/wiki/Viewing map tiles in desktop GIS apps) - For QGIS, ArcGIS, and Manifold.
+
 ### Tools of the trade:
 
 * [QGIS](https://github.com/nvkelso/geo-how-to/wiki/QGIS) - The open source alternative to ArcMap, but not as industrial strength. It's a GUI for composing maps and doing simple analysis.
