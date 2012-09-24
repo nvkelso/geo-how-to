@@ -70,6 +70,10 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Shapely](https://github.com/nvkelso/geo-how-to/wiki/Shapely) - Python library for geometric objects, predicates, and operations without requiring PostGIS.
 
+* [pprepair](http://tudelft-gist.github.com/pprepair/) - Validate and automatically repair planar partitions.
+
+* [Merge SHPs, GeoJSON, and more into single files](https://gist.github.com/3759113) - Good tool from Dane. [Alternative](https://gist.github.com/3759608) from Mike.
+
 * [GeoJSON](https://github.com/nvkelso/geo-how-to/wiki/GeoJSON) - Make it smaller. Giving your data the precision it's accuracy deserves.
 
 * [D3.js](http://www.smartjava.org/content/using-d3js-visualize-gis) - A robust data visualization library with built in geography support.
