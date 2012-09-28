@@ -34,6 +34,7 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Hosting Tiles](https://github.com/nvkelso/geo-how-to/wiki/Hosting tiles) - Publish your tiles so others can see them. Amazon S3, EC2, CloudFront, your own server, MapBox.com, etc.
 
+* [Setting up an EC2 Ubuntu map server](https://github.com/nvkelso/geo-how-to/wiki/Setting up an EC2 Ubuntu map server) - Work in the cloud, it's so fluffy!
 
 ### Upping your game:
 
