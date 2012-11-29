@@ -23,6 +23,7 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [When tiles aren't enough](https://github.com/nvkelso/geo-how-to/wiki/Print-and-big-map-images) - Use your web map stylesheet to render larger raster images and export to PDF, EPS, and SVG.
 
+* [Tutorials](http://github.com/nvkelso/geo-how-to/wiki/Tutorials) - From Dymo, PostGIS, to Imposm.
 
 ## Mapping
 
@@ -48,7 +49,7 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Viewing map tiles in desktop GIS apps](https://github.com/nvkelso/geo-how-to/wiki/Viewing map tiles in desktop GIS apps) - For QGIS, ArcGIS, and Manifold.
 
-* [Map scales/zooms, coordinate systems](https://github.com/nvkelso/geo-how-to/wiki/Map-scales---zooms) - Web maps have 20 preset scales, learn these “zoom” levels and their natural scale equivelents.
+* [Map scales/zooms, coordinate systems](https://github.com/nvkelso/geo-how-to/wiki/Map-scales---zooms) - Web maps have 20 preset scales, learn these “zoom” levels and their natural scale equivelents. Also more general map projections.
 
 * [Generalize your data](https://github.com/nvkelso/geo-how-to/wiki/Generalize your data) - Seriously. Your maps will look better and load faster.
 
