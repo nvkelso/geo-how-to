@@ -56,17 +56,19 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 ### Tools of the trade:
 
+* [D3.js](http://www.smartjava.org/content/using-d3js-visualize-gis) - A robust data visualization library with built in geography support. Bostock has a [great map tutorial](http://bost.ocks.org/mike/map/), too.
+
 * [QGIS](https://github.com/nvkelso/geo-how-to/wiki/QGIS) - The open source alternative to ArcMap, but not as industrial strength. It's a GUI for composing maps and doing simple analysis.
 
 * [PostGIS](https://github.com/nvkelso/geo-how-to/wiki/PostGIS) - Store your geography in a spatial database (kinda the open source version of an Esri GeoDB). Faster than raw SHP files when speed matters. Storage default for OSM data.
 
 * [OGR, GDAL](https://github.com/nvkelso/geo-how-to/wiki/OGR-to-reproject,-modify-Shapefiles) - Reproject, sort, filter and otherwise modify Shapefiles and other vector map data formats. GDAL for raster. These are amazingly powerful.
 
+* [TileMill](http://mapbox.com/tilemill/) - Desktop "web" app with an easy installer, powered by Mapnik and Carto. From Development Seed / MapBox.
+
 * [Mapnik](https://github.com/nvkelso/geo-how-to/wiki/Mapnik) - Draw web map tiles, industrial strength.
 
 * [TileStache](https://github.com/nvkelso/geo-how-to/wiki/TileStache) - Cache web map tiles, from Stamen.
-
-* [TileMill](http://mapbox.com/tilemill/) - Desktop "web" app with an easy installer, powered by Mapnik and Carto. From Development Seed / MapBox.
 
 * [Dymo](https://github.com/nvkelso/geo-how-to/wiki/Dymo) - Create beautiful map labels, from Stamen. Like Annotation from ArcGIS.
 
@@ -78,15 +80,13 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [GeoJSON](https://github.com/nvkelso/geo-how-to/wiki/GeoJSON) - Make it smaller. Giving your data the precision it's accuracy deserves.
 
-* [D3.js](http://www.smartjava.org/content/using-d3js-visualize-gis) - A robust data visualization library with built in geography support.
-
 * [Kartograph](http://kartograph.org/) - Kartograph is a new framework for building interactive vector map applications without Google Maps or any other mapping service. It was created with the needs of designers and data journalists in mind. Tons of map projections, gracefully degrades to IE7. Great for thematic maps that are smaller scale than 1:250,000.
 
 * [MaPublisher](https://github.com/nvkelso/geo-how-to/wiki/MaPublisher) - Make maps in Adobe Illustrator.
 
 * [OpenStreetMap](https://github.com/nvkelso/geo-how-to/wiki/OpenStreetMap) - aka OSM. How to import it and explore the tag universe.
 
-* [Geocoding](https://github.com/nvkelso/geo-how-to/wiki/Geocoding) - This is the one hard part about going open source geo.
+* [Geocoding](https://github.com/nvkelso/geo-how-to/wiki/Geocoding) - To geocode is the hardest part about going open source geo.
 
 * [Routing](https://github.com/nvkelso/geo-how-to/wiki/Routing) - The MapQuest Open API returns routing based on OSM data
 
@@ -94,14 +94,15 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Land cover](https://github.com/nvkelso/geo-how-to/wiki/Land cover) - set of utilities for processing classified TIF images and colorizing techniques to indicate type (or presence) of vegetation and land use.
 
+* [Wicket](http://geojam.net/static/wicket/doc/) - View WKT geometries on web map.
 
 ## Unix command line
 
 * [Makefiles](https://github.com/nvkelso/geo-how-to/wiki/Make-files) - Key to organizing your workflow and making it repeatable.
 
-* [Python](https://github.com/nvkelso/geo-how-to/wiki/Python) - tk tk tk
+* [Python](https://github.com/nvkelso/geo-how-to/wiki/Python) - Makes almost everything else possible.
 
-* [General Unix commands](https://github.com/nvkelso/geo-how-to/wiki/Unix-commands)
+* [General Unix commands](https://github.com/nvkelso/geo-how-to/wiki/Unix-commands) - Including screen.
 
 * [Download onto server using CURL](https://github.com/nvkelso/geo-how-to/wiki/Download-onto-server-using-CURL)
 
