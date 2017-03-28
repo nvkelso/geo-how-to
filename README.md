@@ -33,9 +33,9 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Rendering map tiles](https://github.com/nvkelso/geo-how-to/wiki/Rendering-map-tiles) - Once you're done designing your map, you'll need to render 10s of thousands of tiny image files, hundreds and thousands of megabytes in size.
 
-* [Hosting Tiles](https://github.com/nvkelso/geo-how-to/wiki/Hosting tiles) - Publish your tiles so others can see them. Amazon S3, EC2, CloudFront, your own server, MapBox.com, etc.
+* [Hosting Tiles](https://github.com/nvkelso/geo-how-to/wiki/Hosting%20tiles) - Publish your tiles so others can see them. Amazon S3, EC2, CloudFront, your own server, MapBox.com, etc.
 
-* [Setting up an EC2 Ubuntu map server](https://github.com/nvkelso/geo-how-to/wiki/Setting up an EC2 Ubuntu map server) - Work in the cloud, it's so fluffy!
+* [Setting up an EC2 Ubuntu map server](https://github.com/nvkelso/geo-how-to/wiki/Setting%20up%20an%20EC2%20Ubuntu%20map%20server) - Work in the cloud, it's so fluffy!
 
 ### Upping your game:
 
@@ -43,15 +43,15 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Style Hub](https://github.com/nvkelso/geo-how-to/wiki/Style-Hub) - Pre-baked stylesheets and icons for drawing OSM and Natural Earth data.
 
-* [Adding interactivity](https://github.com/nvkelso/geo-how-to/wiki/Adding interactivity) - UTF-8 grids + hybrid tile vector maps
+* [Adding interactivity](https://github.com/nvkelso/geo-how-to/wiki/Adding%20interactivity) - UTF-8 grids + hybrid tile vector maps
 
-* [Is your map effective?](https://github.com/nvkelso/geo-how-to/wiki/Is your map effective) - Take a critical look at your work, evaluate it with a consistent rubric, and ask, "Is my map great?"
+* [Is your map effective?](https://github.com/nvkelso/geo-how-to/wiki/Is%20your%20map%20effective) - Take a critical look at your work, evaluate it with a consistent rubric, and ask, "Is my map great?"
 
-* [Viewing map tiles in desktop GIS apps](https://github.com/nvkelso/geo-how-to/wiki/Viewing map tiles in desktop GIS apps) - For QGIS, ArcGIS, and Manifold.
+* [Viewing map tiles in desktop GIS apps](https://github.com/nvkelso/geo-how-to/wiki/Viewing%20map%20tiles%20in%20desktop%20GIS%20apps) - For QGIS, ArcGIS, and Manifold.
 
 * [Map scales/zooms, coordinate systems](https://github.com/nvkelso/geo-how-to/wiki/Map-scales---zooms) - Web maps have 20 preset scales, learn these “zoom” levels and their natural scale equivelents. Also more general map projections.
 
-* [Generalize your data](https://github.com/nvkelso/geo-how-to/wiki/Generalize your data) - Seriously. Your maps will look better and load faster.
+* [Generalize your data](https://github.com/nvkelso/geo-how-to/wiki/Generalize%20your%20data) - Seriously. Your maps will look better and load faster.
 
 
 ### Tools of the trade:
@@ -90,9 +90,9 @@ _Looking for an overview of OSM instead? Check out the [Switch2osm](http://switc
 
 * [Routing](https://github.com/nvkelso/geo-how-to/wiki/Routing) - The MapQuest Open API returns routing based on OSM data
 
-* [Shaded relief](https://github.com/nvkelso/geo-how-to/wiki/Shaded relief) - set of utilities for processing DEM (digital elevation models, digital terrain models) and shading that to indicate the shape of mountains and other relief features. 
+* [Shaded relief](https://github.com/nvkelso/geo-how-to/wiki/Shaded%20relief) - set of utilities for processing DEM (digital elevation models, digital terrain models) and shading that to indicate the shape of mountains and other relief features. 
 
-* [Land cover](https://github.com/nvkelso/geo-how-to/wiki/Land cover) - set of utilities for processing classified TIF images and colorizing techniques to indicate type (or presence) of vegetation and land use.
+* [Land cover](https://github.com/nvkelso/geo-how-to/wiki/Land%20cover) - set of utilities for processing classified TIF images and colorizing techniques to indicate type (or presence) of vegetation and land use.
 
 * [Wicket](http://geojam.net/static/wicket/doc/) - View WKT geometries on web map.
 
